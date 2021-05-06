@@ -3,7 +3,7 @@ camelcase==0.2
 click==6.7
 dnspython==1.15.0
 Flask==1.0.2
-Flask-Cors==3.0.6
+Flask-Cors==3.0.9
 Flask-RESTful==0.3.6
 gunicorn==19.9.0
 itsdangerous==0.24
